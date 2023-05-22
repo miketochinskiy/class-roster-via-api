@@ -19,7 +19,7 @@ fetch(url)
     console.log(data.records[0].fields.Image[0].url);
 
     // get container for data
-    const gallery = document.querySelector(".gallery");
+    const gallery = document.querySelector(".roster");
 
     // loop through data
     data.records.forEach( student => {
