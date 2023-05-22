@@ -1,7 +1,5 @@
 # Class Roster via our API data
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/class-roster-via-api"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-
 ## What Is This? 
 Get, Show, and Style a Class Roster via our API data
 
@@ -15,7 +13,7 @@ Get, Show, and Style a Class Roster via our API data
 Use API endpoint for the _Collection_ provided in class. 
 
 ## Citations
-List your sources here
+
 
 [Font Share](https://www.fontshare.com/)
 
